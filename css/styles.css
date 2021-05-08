@@ -52,15 +52,12 @@
     border-radius: 50%;
 }
 
-.foto:hover{
-    height: 9em;
-    width: 9em;
-}
 
 
 
 .textoInferior{
     font-family: 'Poppins', sans-serif;
+    margin: 1em;
 }
 
 .contenidoInf{
@@ -112,8 +109,8 @@
 }
 
 .imagen{
-    height: 10em;
-    width: 10em;
+    height: 13em;
+    width: 13em;
     border-radius: 50%;
     background-color: #efefef;
     display: flex;
@@ -123,8 +120,8 @@
 }
 
 .fotoBorde{
-    height: 9em;
-    width: 9em;
+    height: 11.5em;
+    width: 11.5em;
     border-radius: 50%;
     background-color: #d8d8d8;
     display: flex;
@@ -134,20 +131,17 @@
 
 
 .foto{
-    height: 8em;
-    width: 8em;
+    height: 10em;
+    width: 10em;
     border-radius: 50%;
-}
-
-.foto:hover{
-    height: 9em;
-    width: 9em;
 }
 
 
 
 .textoInferior{
     font-family: 'Poppins', sans-serif;
+    padding: 1em;
+    margin: 1em;
 }
 
 .contenidoInf{
@@ -167,8 +161,8 @@
     flex-direction: column;
     margin:em;
 
-    height: 6em;
-    width: 12em;
+    height: 9em;
+    width: 18em;
 }
 
 
