@@ -1,7 +1,14 @@
+*{
+    font-family: sans-serif;
+    font-size: 12px;    
+}
+
+
 
 #barra{
     background-color: #94c0d0;
 }
+
 
 /* Estilos para pantalla pequeña */
 @media only screen and (max-width: 600px) {  
