@@ -3,9 +3,15 @@
     font-size: 12px;    
 }
 
+body{
+    background-color: #E2ECEE;
+
+}
 #barra{
     background-color: #94c0d0;
 }
+
+
 
 /* Estilos para pantalla pequeña */
 @media only screen and (max-width: 600px) {  

@@ -3,11 +3,15 @@
     font-size: 12px;    
 }
 
+body{
+    background-color: #E2ECEE;
+    font-size: 1em;    
 
-
+}
 #barra{
     background-color: #94c0d0;
 }
+
 
 
 /* Estilos para pantalla pequeña */
