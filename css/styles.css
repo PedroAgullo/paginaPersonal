@@ -102,6 +102,7 @@ body{
 @media only screen and (min-width: 601px) {  
 
 .contenido{
+    padding-top: 7em;
     width: auto;
     display: flex;
     justify-content: center;
@@ -117,6 +118,7 @@ body{
     justify-content: center;
     align-items: center;    
     flex-direction: row; 
+    padding-bottom: 5em;
 }
 
 .imagen{
