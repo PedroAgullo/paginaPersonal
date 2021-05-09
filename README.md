@@ -12,3 +12,6 @@ La página está compuesta por 4 apartados: Home, sobre mi, portfolio y contacto
     <li>CSS3</li>
 </ul>
 
+<h4>Resultado del proyecto</h4>
+
+![Image text](img/fotoReadme.png)
