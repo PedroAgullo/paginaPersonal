@@ -120,8 +120,8 @@ body{
 }
 
 .imagen{
-    height: 13em;
-    width: 13em;
+    height: 15em;
+    width: 15em;
     border-radius: 50%;
     background-color: #efefef;
     display: flex;
@@ -131,8 +131,8 @@ body{
 }
 
 .fotoBorde{
-    height: 11.5em;
-    width: 11.5em;
+    height: 13.5em;
+    width: 13.5em;
     border-radius: 50%;
     background-color: #d8d8d8;
     display: flex;
@@ -142,8 +142,8 @@ body{
 
 
 .foto{
-    height: 10em;
-    width: 10em;
+    height: 12em;
+    width: 12em;
     border-radius: 50%;
 }
 
