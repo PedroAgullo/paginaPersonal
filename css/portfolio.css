@@ -11,13 +11,28 @@ body{
     background-color: #94c0d0;
 }
 
+h3{
+    color: grey;
+}
 
-
+a{
+    color: grey;
+}
 /* Estilos para pantalla pequeña */
 @media only screen and (max-width: 600px) {  
+    .contenedor{
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;   
+        flex-direction: column; 
+        padding: 1em;
+    }
 
-
-
+    .imagenPequena{
+        height: 5em;
+        width: 3em;
+    }
 }
 
 
@@ -33,6 +48,7 @@ body{
     justify-content: center;
     align-items: center;   
     flex-direction: column; 
+    padding: 1em;
 }
 
 
@@ -41,6 +57,7 @@ body{
     justify-content: center;
     align-items: center;   
     flex-direction: column; 
+    padding: 2em;
 }
 
 }
