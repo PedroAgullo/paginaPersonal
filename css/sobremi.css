@@ -11,8 +11,64 @@ body{
     background-color: #94c0d0;
 }
 
+h5{
+    padding: 0.3em;
+}
+.contenedor{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: column; 
+    font-size: 1.2em;   
+    padding: 2em;
+}
+.conocimientos{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: row; 
+}
+
+.fotoPC{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: column; 
+    height: 15em;
+    width: 18em;
+    border-radius: 1em;
+}
+
+.hobbies{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: row; 
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;       
 
 
+}
+
+.fotoSantiago{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: column; 
+    height: 15em;
+    width: 18em;
+    border-radius: 1em;
+
+
+}
 
 .footer{
     position: absolute;
