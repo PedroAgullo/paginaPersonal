@@ -11,16 +11,12 @@ body{
     background-color: #94c0d0;
 }
 
-
-
-
 .contenedor{
     width: 400px;
     margin: auto;
     background-color: #E2ECEE;
     padding: 2em;
 }
-
 
 .contacto{
     border: 1px solid #CED5D7;
@@ -68,9 +64,6 @@ body{
     background: #cfe6ef;
 
 }
-
-
-
 .footer{
     position: absolute;
     bottom: 2.3em;
