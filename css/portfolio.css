@@ -16,80 +16,7 @@ body{
 /* Estilos para pantalla pequeña */
 @media only screen and (max-width: 600px) {  
 
-.contenido{
-    width: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;   
-    flex-direction: column; 
 
-}
-
-.contenidoSup{
-    height: auto;
-    width: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;    
-    flex-direction: column; 
-}
-
-.imagen{
-    height: 10em;
-    width: 10em;
-    border-radius: 50%;
-    background-color: #efefef;
-    display: flex;
-    justify-content: center;
-    align-items: center;  
-    margin: 1em;  
-}
-
-.fotoBorde{
-    height: 9em;
-    width: 9em;
-    border-radius: 50%;
-    background-color: #d8d8d8;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-
-.foto{
-    height: 8em;
-    width: 8em;
-    border-radius: 50%;
-}
-
-
-
-
-.textoInferior{
-    font-family: 'Poppins', sans-serif;
-    margin: 1em;
-}
-
-.contenidoInf{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    height: 15em;
-    width: auto;
-
-}
-
-.dibujo{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin:em;
-
-    height: 6em;
-    width: 12em;
-}
 
 }
 
@@ -100,83 +27,26 @@ body{
 /* Estilos para la Pantalla completa */
 @media only screen and (min-width: 601px) {  
 
-.contenido{
+.contenedor{
     width: auto;
     display: flex;
     justify-content: center;
     align-items: center;   
     flex-direction: column; 
-
 }
 
-.contenidoSup{
-    height: auto;
-    width: auto;
+
+.consola{
     display: flex;
     justify-content: center;
-    align-items: center;    
-    flex-direction: row; 
+    align-items: center;   
+    flex-direction: column; 
 }
 
-.imagen{
-    height: 13em;
-    width: 13em;
-    border-radius: 50%;
-    background-color: #efefef;
-    display: flex;
-    justify-content: center;
-    align-items: center;  
-    margin: 1em;  
-}
-
-.fotoBorde{
-    height: 11.5em;
-    width: 11.5em;
-    border-radius: 50%;
-    background-color: #d8d8d8;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-
-.foto{
-    height: 10em;
-    width: 10em;
-    border-radius: 50%;
 }
 
 
 
-.textoInferior{
-    font-family: 'Poppins', sans-serif;
-    padding: 1em;
-    margin: 1em;
-}
-
-.contenidoInf{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-    height: 15em;
-    width: auto;
-
-}
-
-.dibujo{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin:em;
-
-    height: 9em;
-    width: 18em;
-}
-
-
-}
 .footer{
     position: absolute;
     bottom: 2.3em;
